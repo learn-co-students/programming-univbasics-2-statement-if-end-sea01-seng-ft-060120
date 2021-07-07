@@ -31,7 +31,7 @@ know we're done writing conditional code, we add `end`.
 
 ```ruby
 if true
-  puts "This code runs!"
+   puts "This code runs!"
 end
 ```
 
